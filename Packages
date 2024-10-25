@@ -31,7 +31,7 @@ Version: 2.0.0-1
 Section: Backup
 Maintainer: LoveLitten
 Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/love.litten.dejavu.deb
 Size: 1791304
 MD5sum: b6671f1356ea6a30e3d258797711482a
